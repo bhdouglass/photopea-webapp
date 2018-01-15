@@ -1,0 +1,16 @@
+{
+    "name": "photopea.bhdouglass",
+    "description": "Unofficial webapp for photopea.com",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Photopea Web App",
+    "hooks": {
+        "photopea": {
+            "apparmor": "photopea.apparmor",
+            "desktop":  "photopea.desktop",
+            "content-hub":  "photopea.content-hub"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Brian Douglass <bhdouglass@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}

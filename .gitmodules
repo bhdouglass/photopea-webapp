@@ -1,0 +1,3 @@
+[submodule "plugins/BlobSaver"]
+	path = plugins/BlobSaver
+	url = https://github.com/bhdouglass/blobsaver.git
