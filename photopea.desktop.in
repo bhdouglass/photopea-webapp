@@ -1,7 +1,7 @@
 [Desktop Entry]
 _Name=Photopea
 Exec=qmlscene qml/Main.qml
-Icon=assets/logo.png
+Icon=assets/logo.svg
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true
